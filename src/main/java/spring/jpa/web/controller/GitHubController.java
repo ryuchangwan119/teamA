@@ -1,5 +1,8 @@
 package spring.jpa.web.controller;
 
-public class GitHubController {
+import org.springframework.stereotype.Controller;
 
+@Controller
+public class GitHubController {
+	
 }
